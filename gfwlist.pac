@@ -9,7 +9,6 @@ var rules = [
         [],
         [
             "dribbble.com",
-            "figma.com",
             "unsplash.com"
         ]
     ],
