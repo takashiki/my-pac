@@ -1,3 +1,4 @@
 .dribbble.com
 .unsplash.com
 .docker.com
+.worldvectorlogo.com
