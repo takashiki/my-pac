@@ -10,7 +10,8 @@ var rules = [
         [
             "docker.com",
             "dribbble.com",
-            "unsplash.com"
+            "unsplash.com",
+            "worldvectorlogo.com"
         ]
     ],
     [
