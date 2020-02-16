@@ -2,3 +2,4 @@
 .unsplash.com
 .docker.com
 .worldvectorlogo.com
+.githubassets.com
