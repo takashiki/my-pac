@@ -3,3 +3,4 @@
 .docker.com
 .worldvectorlogo.com
 .githubassets.com
+.sstatic.net
