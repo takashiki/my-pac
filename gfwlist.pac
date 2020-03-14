@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-11-04 11:21:47
+ * GFWList Last-Modified: 2019-11-04 12:21:47
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -11,6 +11,7 @@ var rules = [
             "docker.com",
             "dribbble.com",
             "githubassets.com",
+            "matters.news",
             "sstatic.net",
             "unsplash.com",
             "worldvectorlogo.com"
