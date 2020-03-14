@@ -4,3 +4,4 @@
 .worldvectorlogo.com
 .githubassets.com
 .sstatic.net
+.matters.news
