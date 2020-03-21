@@ -11,6 +11,7 @@ var rules = [
             "docker.com",
             "dribbble.com",
             "githubassets.com",
+            "hideystudio.com",
             "matters.news",
             "sstatic.net",
             "unsplash.com",
