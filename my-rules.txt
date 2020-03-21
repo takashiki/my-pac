@@ -5,3 +5,4 @@
 .githubassets.com
 .sstatic.net
 .matters.news
+.hideystudio.com
