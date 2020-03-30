@@ -15,7 +15,8 @@ var rules = [
             "matters.news",
             "sstatic.net",
             "unsplash.com",
-            "worldvectorlogo.com"
+            "worldvectorlogo.com",
+            "xn--noss43i.com"
         ]
     ],
     [
