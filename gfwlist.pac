@@ -13,6 +13,7 @@ var rules = [
             "githubassets.com",
             "hideystudio.com",
             "matters.news",
+            "mxpnl.com",
             "sstatic.net",
             "unsplash.com",
             "worldvectorlogo.com",
