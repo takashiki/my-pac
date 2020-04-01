@@ -7,3 +7,4 @@
 .matters.news
 .hideystudio.com
 .xn--noss43i.com
+.mxpnl.com
