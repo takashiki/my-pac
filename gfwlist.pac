@@ -10,6 +10,7 @@ var rules = [
         [
             "docker.com",
             "dribbble.com",
+            "figma.com",
             "githubassets.com",
             "hideystudio.com",
             "matters.news",
