@@ -8,3 +8,4 @@
 .hideystudio.com
 .xn--noss43i.com
 .mxpnl.com
+.figma.com
