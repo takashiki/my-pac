@@ -10,3 +10,4 @@
 .mxpnl.com
 .figma.com
 .workona.com
+.roamresearch.com
