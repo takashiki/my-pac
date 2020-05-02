@@ -15,6 +15,7 @@ var rules = [
             "hideystudio.com",
             "matters.news",
             "mxpnl.com",
+            "roamresearch.com",
             "sstatic.net",
             "unsplash.com",
             "workona.com",
