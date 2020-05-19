@@ -17,6 +17,7 @@ var rules = [
             "mxpnl.com",
             "roamresearch.com",
             "sstatic.net",
+            "tailwindcss.com",
             "unsplash.com",
             "workona.com",
             "worldvectorlogo.com",
