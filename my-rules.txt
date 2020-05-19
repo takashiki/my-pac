@@ -11,3 +11,4 @@
 .figma.com
 .workona.com
 .roamresearch.com
+.tailwindcss.com
