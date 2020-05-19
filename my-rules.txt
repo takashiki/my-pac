@@ -12,3 +12,4 @@
 .workona.com
 .roamresearch.com
 .tailwindcss.com
+.sourcegraph.com
