@@ -16,6 +16,7 @@ var rules = [
             "matters.news",
             "mxpnl.com",
             "roamresearch.com",
+            "sourcegraph.com",
             "sstatic.net",
             "tailwindcss.com",
             "unsplash.com",
