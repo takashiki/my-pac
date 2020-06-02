@@ -13,3 +13,4 @@
 .roamresearch.com
 .tailwindcss.com
 .sourcegraph.com
+.packagist.org
