@@ -14,3 +14,5 @@
 .tailwindcss.com
 .sourcegraph.com
 .packagist.org
+.tailwindcomponents.com
+.obsidian.md
