@@ -16,3 +16,4 @@
 .packagist.org
 .tailwindcomponents.com
 .obsidian.md
+.lfi-online.de
