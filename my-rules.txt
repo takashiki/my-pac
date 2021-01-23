@@ -17,3 +17,4 @@
 .tailwindcomponents.com
 .obsidian.md
 .lfi-online.de
+.laravel.com
