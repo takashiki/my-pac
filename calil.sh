@@ -15,7 +15,7 @@ source env/bin/activate
 (cd genpac;python setup.py install)
 
 env/bin/genpac \
-	--pac-proxy "SOCKS5 127.0.0.1:1080" \
+	--pac-proxy "PROXY 127.0.0.1:9999" \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	--user-rule-from ./my-rules.txt \
