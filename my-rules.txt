@@ -18,3 +18,4 @@
 .obsidian.md
 .lfi-online.de
 .laravel.com
+.madou.club
