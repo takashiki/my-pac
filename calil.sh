@@ -23,6 +23,8 @@ env/bin/genpac \
 sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
 
+./gen-clash.sh
+
 git add .
 git commit -m "[$(LANG=C date)]auto update"
 git push origin master
