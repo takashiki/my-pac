@@ -19,3 +19,5 @@
 .lfi-online.de
 .laravel.com
 .madou.club
+.notion.so
+.tabby.sh
