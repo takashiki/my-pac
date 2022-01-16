@@ -1,24 +1,24 @@
 payload:
-  - '+.dribbble.com'
-  - '+.unsplash.com'
-  - '+.docker.com'
-  - '+.worldvectorlogo.com'
-  - '+.githubassets.com'
-  - '+.sstatic.net'
-  - '+.matters.news'
-  - '+.hideystudio.com'
-  - '+.xn--noss43i.com'
-  - '+.mxpnl.com'
-  - '+.figma.com'
-  - '+.workona.com'
-  - '+.roamresearch.com'
-  - '+.tailwindcss.com'
-  - '+.sourcegraph.com'
-  - '+.packagist.org'
-  - '+.tailwindcomponents.com'
-  - '+.obsidian.md'
-  - '+.lfi-online.de'
-  - '+.laravel.com'
-  - '+.madou.club'
-  - '+.notion.so'
-  - '+.tabby.sh'
+  - '+.dribbble.com'
+  - '+.unsplash.com'
+  - '+.docker.com'
+  - '+.worldvectorlogo.com'
+  - '+.githubassets.com'
+  - '+.sstatic.net'
+  - '+.matters.news'
+  - '+.hideystudio.com'
+  - '+.xn--noss43i.com'
+  - '+.mxpnl.com'
+  - '+.figma.com'
+  - '+.workona.com'
+  - '+.roamresearch.com'
+  - '+.tailwindcss.com'
+  - '+.sourcegraph.com'
+  - '+.packagist.org'
+  - '+.tailwindcomponents.com'
+  - '+.obsidian.md'
+  - '+.lfi-online.de'
+  - '+.laravel.com'
+  - '+.madou.club'
+  - '+.notion.so'
+  - '+.tabby.sh'
