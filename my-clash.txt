@@ -22,3 +22,4 @@ payload:
   - '+.madou.club'
   - '+.notion.so'
   - '+.tabby.sh'
+  - '+.akamaized.net'
