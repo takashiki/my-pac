@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-03-13 00:32:43
+ * GFWList Last-Modified: 2022-03-26 17:08:52
  */
 
 var proxy = 'PROXY 127.0.0.1:9999';
@@ -9,9 +9,11 @@ var rules = [
         [],
         [
             "akamaized.net",
+            "azureedge.net",
             "docker.com",
             "dribbble.com",
             "figma.com",
+            "github.dev",
             "githubassets.com",
             "hideystudio.com",
             "laravel.com",
@@ -2839,6 +2841,7 @@ var rules = [
             "izles.net",
             "izlesem.org",
             "j.mp",
+            "jable.tv",
             "jackjia.com",
             "jamaat.org",
             "jamestown.org",
@@ -3117,6 +3120,7 @@ var rules = [
             "linglingfa.com",
             "lingvodics.com",
             "link-o-rama.com",
+            "linkedin.com",
             "linkideo.com",
             "linksalpha.com",
             "linkuswell.com",
@@ -3385,6 +3389,7 @@ var rules = [
             "mobileways.de",
             "moby.to",
             "mobypicture.com",
+            "mod.io",
             "modernchinastudies.org",
             "moeaic.gov.tw",
             "moeerolibrary.com",
