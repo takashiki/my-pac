@@ -22,3 +22,5 @@
 .notion.so
 .tabby.sh
 .akamaized.net
+.github.dev
+.azureedge.net
