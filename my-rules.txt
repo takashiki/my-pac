@@ -24,3 +24,6 @@
 .akamaized.net
 .github.dev
 .azureedge.net
+.visualstudio.com
+.vscode-webview.net
+.exp-tas.com
