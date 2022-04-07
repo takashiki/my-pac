@@ -12,6 +12,7 @@ var rules = [
             "azureedge.net",
             "docker.com",
             "dribbble.com",
+            "exp-tas.com",
             "figma.com",
             "github.dev",
             "githubassets.com",
@@ -31,6 +32,8 @@ var rules = [
             "tailwindcomponents.com",
             "tailwindcss.com",
             "unsplash.com",
+            "visualstudio.com",
+            "vscode-webview.net",
             "workona.com",
             "worldvectorlogo.com",
             "xn--noss43i.com"
