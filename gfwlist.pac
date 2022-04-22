@@ -34,6 +34,8 @@ var rules = [
             "tailwindcss.com",
             "unsplash.com",
             "visualstudio.com",
+            "vscode-cdn.net",
+            "vscode-unpkg.net",
             "vscode-webview.net",
             "workona.com",
             "worldvectorlogo.com",
