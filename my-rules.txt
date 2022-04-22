@@ -28,3 +28,5 @@
 .vscode-webview.net
 .exp-tas.com
 .babylonjs.com
+.vscode-cdn.net
+.vscode-unpkg.net
