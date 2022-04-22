@@ -28,3 +28,4 @@ payload:
   - '+.visualstudio.com'
   - '+.vscode-webview.net'
   - '+.exp-tas.com'
+  - '+.babylonjs.com'

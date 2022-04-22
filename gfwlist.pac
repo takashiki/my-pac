@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-03-26 17:08:52
+ * GFWList Last-Modified: 2022-04-21 11:44:52
  */
 
 var proxy = 'PROXY 127.0.0.1:9999';
@@ -10,6 +10,7 @@ var rules = [
         [
             "akamaized.net",
             "azureedge.net",
+            "babylonjs.com",
             "docker.com",
             "dribbble.com",
             "exp-tas.com",
@@ -3816,6 +3817,7 @@ var rules = [
             "openervpn.in",
             "openid.net",
             "openleaks.org",
+            "opensea.io",
             "opensource.google",
             "opentech.fund",
             "openvpn.net",
