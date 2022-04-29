@@ -11,6 +11,7 @@ var rules = [
             "akamaized.net",
             "azureedge.net",
             "babylonjs.com",
+            "dbeaver.com",
             "docker.com",
             "dribbble.com",
             "exp-tas.com",
