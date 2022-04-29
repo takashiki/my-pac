@@ -30,3 +30,4 @@
 .babylonjs.com
 .vscode-cdn.net
 .vscode-unpkg.net
+.dbeaver.com
