@@ -32,3 +32,4 @@ payload:
   - '+.vscode-cdn.net'
   - '+.vscode-unpkg.net'
   - '+.dbeaver.com'
+  - '+.msecnd.net'
