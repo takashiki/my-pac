@@ -33,3 +33,4 @@ payload:
   - '+.vscode-unpkg.net'
   - '+.dbeaver.com'
   - '+.msecnd.net'
+  - '+.gvt1.com'
