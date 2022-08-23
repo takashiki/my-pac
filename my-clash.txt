@@ -34,3 +34,4 @@ payload:
   - '+.dbeaver.com'
   - '+.msecnd.net'
   - '+.gvt1.com'
+  - '+.hackerrank.com'
