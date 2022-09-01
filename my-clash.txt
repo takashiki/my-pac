@@ -35,3 +35,4 @@ payload:
   - '+.msecnd.net'
   - '+.gvt1.com'
   - '+.hackerrank.com'
+  - '+.91porny.com'

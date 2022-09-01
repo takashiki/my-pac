@@ -8,6 +8,7 @@ var rules = [
     [
         [],
         [
+            "91porny.com",
             "akamaized.net",
             "azureedge.net",
             "babylonjs.com",
